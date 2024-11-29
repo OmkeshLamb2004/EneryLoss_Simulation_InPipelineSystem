@@ -74,5 +74,5 @@ Here is a screenshot of the application:
 
 
 ---  
-Developed with ❤️ by [Omkesh Lamb](https://github.com/<OmkeshLamb2004>)  
+Developed with ❤️ by [Omkesh Lamb](https://github.com/OmkeshLamb2004)  
 Feel free to contribute, raise issues, or suggest features!  
